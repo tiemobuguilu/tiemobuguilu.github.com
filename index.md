@@ -1,6 +1,6 @@
 ## Wenguang Wang’s Homepage
 
-I’m Wenguang Wang, currently a Master candidate in the Institute of Computer Science & Technology of Peking University ([ICST](http://www.icst.pku.edu.cn/)), also a member of Character Shape Computing Lab ([CSCL](http://59.108.48.27/cscl/)).
+I’m Wenguang Wang, a Master in the Institute of Computer Science & Technology of Peking University ([ICST](http://www.icst.pku.edu.cn/)), also a member of Character Shape Computing Lab ([CSCL](http://59.108.48.27/cscl/)).
 
 ### Experience
 
