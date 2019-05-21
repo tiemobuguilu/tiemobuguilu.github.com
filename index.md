@@ -15,26 +15,19 @@ I’m Wenguang Wang, currently a Master candidate in the Institute of Computer S
 #### Project Experience
 
 Chinese Stroke Extraction by Semantic Segmentation and Tabu Search
-
 Task: stroke extraction of Chinese character.
-
 Two improvements in original semantic segmentation models (Such as DeepLab v1, v3+):
-
 Stroke list module: guide the model by priori information like stroke count.
-
 Inference module: replace the background channel by binary images of the characters.
-
 Use tabu search algorithm for stroke ordering problem. We regard it as a Traveling Salesman Problem (TSP) and add stroke categories penalty term into the fitness function to improve the accuracy.
-
 Build a dataset containing 10 different fonts for stroke extraction (Pascal voc 2012 style).
 300 times faster and 4.65% more accurate than the state-of-the-art.
 
 ### Awards
 1、National Scholarship (twice, 2014--2015&2015--2016)
-
 2、Tanglixin Scholarship (60 people per year, 2016--2020)
-
 3、Undergraduate Electronic Design Contest, the Second Prize (international)
-### Support or Contact
+### Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+wangwenguang at pku dot edu dot cn
+
