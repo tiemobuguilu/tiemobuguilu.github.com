@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Wenguang Wang’s Homepage
+
+I’m Wenguang Wang, currently a Master candidate in the Institute of Computer Science & Technology of Peking University ([ICST](http://www.icst.pku.edu.cn/)), also a member of Character Shape Computing Lab ([CSCL](http://59.108.48.27/cscl/)).
 
 You can use the [editor on GitHub](https://github.com/tiemobuguilu/tiemobuguilu.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
